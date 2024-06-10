@@ -1,5 +1,15 @@
 # Melanoma-Detection
 >Melanoma is a type of cancer that can be deadly if not detected early.It accounts for 75% of skin cancer deaths. With given  images evaluated and alert dermatologists about the presence of melanoma.
+and the given  data set contains the following diseases:
+* Actinic keratosis
+* Basal cell carcinoma
+* Dermatofibroma
+* Melanoma
+* Nevus
+* Pigmented benign keratosis
+* Seborrheic keratosis
+* Squamous cell carcinoma
+* Vascular lesion
 
 ## Table of Contents
 * [General Info](#general-information)
